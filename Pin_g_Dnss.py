@@ -15,7 +15,7 @@ cp = id_generator()
 
 ### here opening a txt file which contain a dns list  : name  ip-or hostname  __ MOST BE IN SAME FOLDER
 
-f = open('dns1s.txt')
+f = open('dnss.txt')
 
 ### compain the id with a date and time for the logging file 
 
